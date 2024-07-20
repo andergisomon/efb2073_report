@@ -105,13 +105,13 @@ params:
 
 menu:
   main:
-    - identifier: about_us
-      name: About the team
-      url: posts/About_Us
+    - identifier: search
+      name: Search
+      url: /search
       weight: 20
-    - identifier: source_code
-      name: Source code
-      url: posts/Source_Code
+    - identifier: website_source
+      name: Website source
+      url: "https://github.com/andergisomon/efb2073_report"
       weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
