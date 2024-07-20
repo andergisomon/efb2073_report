@@ -1,15 +1,22 @@
 +++
 title = 'About the team'
-date = 2024-07-19T23:34:12+08:00
+summary = "More information on each team member"
 draft = false
+weight = 1
 +++
 
 ## Team members
 
-![image](images/uni.jpg)
-
 We are all handsome boyes, like Uni the Strongest.
+
+
+| Volintine Ander  | Another guy | Uni |
+|:-:|:-:|:-:|
+| {{< figure src="images/uni.jpg" width="200" class="center" >}} | {{< figure src="images/uni.jpg" width="200" class="center" >}} | {{< figure src="images/uni.jpg" width="200" class="center" >}} |
+| He did some stuff | He did some stuff | Just being silly |
+
 
 ## Other info
 
-Worship Uni.
+> Worship Uni.
+{.note}

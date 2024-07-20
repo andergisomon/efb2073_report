@@ -1,25 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
+    <title>Volintine Ander, Zechariah Hwong, Kensley Kudang, Aziz Abdul Bagas, Eddry Haqimy Yusri</title>
     <link>https://andergisomon.github.io/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Volintine Ander, Zechariah Hwong, Kensley Kudang, Aziz Abdul Bagas, Eddry Haqimy Yusri</description>
     <image>
-      <title></title>
+      <title>Volintine Ander, Zechariah Hwong, Kensley Kudang, Aziz Abdul Bagas, Eddry Haqimy Yusri</title>
       <url>https://andergisomon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://andergisomon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jul 2024 23:34:12 +0800</lastBuildDate>
     <atom:link href="https://andergisomon.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About the team</title>
       <link>https://andergisomon.github.io/posts/about_us/</link>
-      <pubDate>Fri, 19 Jul 2024 23:34:12 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://andergisomon.github.io/posts/about_us/</guid>
-      <description>Team members We are all handsome boyes, like Uni the Strongest.
-Other info Worship Uni.</description>
+      <description>More information on each team member</description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>https://andergisomon.github.io/posts/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andergisomon.github.io/posts/intro/</guid>
+      <description>Problem statement, Objectives, and Project Background</description>
+    </item>
+    <item>
+      <title>Development process</title>
+      <link>https://andergisomon.github.io/posts/development_process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andergisomon.github.io/posts/development_process/</guid>
+      <description>Further discussion, technical challenges, and how we had overcome them</description>
+    </item>
+    <item>
+      <title>Results</title>
+      <link>https://andergisomon.github.io/posts/results/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andergisomon.github.io/posts/results/</guid>
+      <description>See our end product in action, conclusion, and future recommendations</description>
+    </item>
+    <item>
+      <title>Source code</title>
+      <link>https://andergisomon.github.io/posts/source_code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://andergisomon.github.io/posts/source_code/</guid>
+      <description>View our code in detail</description>
     </item>
   </channel>
 </rss>

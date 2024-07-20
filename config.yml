@@ -1,6 +1,5 @@
-
 baseURL: "https://andergisomon.github.io/"
-title: 
+title: Volintine Ander, Zechariah Hwong, Kensley Kudang, Aziz Abdul Bagas, Eddry Haqimy Yusri
 paginate: 5
 theme: papermod
 
@@ -27,11 +26,12 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
+  hideauthor: true
 
   ShowReadingTime: false
   ShowShareButtons: false
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   ShowWordCount: false
   ShowRssButtonInSectionTermList: false
@@ -40,12 +40,12 @@ params:
   disableScrollToTop: false
   comments: false
   hidemeta: false
-  hideSummary: true
+  hideSummary: false
   showtoc: true
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
+    disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "<link / abs url>"
     favicon16x16: "<link / abs url>"
@@ -76,7 +76,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "EFB2073 Microprocessor & Computer Architecture Project Report"
-    Content: "Web project report"
+    Content: "A web report detailing our IoT project"
 
   analytics:
     google:
@@ -103,16 +103,30 @@ params:
     limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
 
+menu:
+  main:
+    - identifier: about_us
+      name: About the team
+      url: posts/About_Us
+      weight: 20
+    - identifier: source_code
+      name: Source code
+      url: posts/Source_Code
+      weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
   highlight:
     noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    lineNos: true
+    style: monokai
+  goldmark:
+    parser:
+      attribute:
+        block: true
 
 
