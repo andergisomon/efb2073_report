@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://andergisomon.github.io/posts/about_us/</loc>
+    <loc>http://localhost:1313/posts/about_us/</loc>
   </url><url>
-    <loc>https://andergisomon.github.io/posts/intro/</loc>
+    <loc>http://localhost:1313/posts/intro/</loc>
   </url><url>
-    <loc>https://andergisomon.github.io/posts/development_process/</loc>
+    <loc>http://localhost:1313/posts/development_process/</loc>
   </url><url>
-    <loc>https://andergisomon.github.io/posts/results/</loc>
+    <loc>http://localhost:1313/posts/results/</loc>
   </url><url>
-    <loc>https://andergisomon.github.io/posts/source_code/</loc>
+    <loc>http://localhost:1313/posts/source_code/</loc>
   </url><url>
-    <loc>https://andergisomon.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://andergisomon.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
-    <loc>https://andergisomon.github.io/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://andergisomon.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://andergisomon.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>

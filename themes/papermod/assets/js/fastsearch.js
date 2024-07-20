@@ -48,7 +48,7 @@ window.onload = function () {
             }
         }
     };
-    xhr.open('GET', "../index.json");
+    xhr.open('GET', "https://andergisomon.github.io/efb2073_report/index.json");
     xhr.send();
 }
 
