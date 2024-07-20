@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Ander&#39;s blog</title>
+    <title>Posts on </title>
     <link>https://andergisomon.github.io/posts/</link>
-    <description>Recent content in Posts on Ander&#39;s blog</description>
+    <description>Recent content in Posts on </description>
     <image>
-      <title>Ander&#39;s blog</title>
+      <title></title>
       <url>https://andergisomon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://andergisomon.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jul 2024 02:38:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 23:34:12 +0800</lastBuildDate>
     <atom:link href="https://andergisomon.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EFB2074 Microprocessor &amp; Computer Architecture Project Report</title>
-      <link>https://andergisomon.github.io/posts/efb2073_microprocessor_and_computer_architecture/</link>
-      <pubDate>Sat, 20 Jul 2024 02:38:00 +0800</pubDate>
-      <guid>https://andergisomon.github.io/posts/efb2073_microprocessor_and_computer_architecture/</guid>
-      <description>Bosing suminunsui watang nokosulung kasip.</description>
-    </item>
-    <item>
-      <title>Kopisanangan winorun</title>
-      <link>https://andergisomon.github.io/posts/kopisanangan_winorun/</link>
+      <title>About the team</title>
+      <link>https://andergisomon.github.io/posts/about_us/</link>
       <pubDate>Fri, 19 Jul 2024 23:34:12 +0800</pubDate>
-      <guid>https://andergisomon.github.io/posts/kopisanangan_winorun/</guid>
-      <description>Kopisanangan winorun is how we say &amp;ldquo;Hello world&amp;rdquo; in Kadazandusun.</description>
+      <guid>https://andergisomon.github.io/posts/about_us/</guid>
+      <description>Team members We are all handsome boyes, like Uni the Strongest.
+Other info Worship Uni.</description>
     </item>
   </channel>
 </rss>
