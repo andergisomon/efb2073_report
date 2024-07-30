@@ -17,6 +17,7 @@ We are all handsome boyes, like Uni the Strongest.
 
 
 ## Other info
+{{< youtube "d438Q8m1RJs" >}}
 
 > Worship Uni.
 {.note}
