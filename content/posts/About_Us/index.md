@@ -7,17 +7,19 @@ weight = 1
 
 ## Team members
 
-We are all handsome boyes, like Uni the Strongest.
+We are second year third semester Electrical and Electronics Engineering students in Universiti Teknologi PETRONAS.
+Currently undergoing Microprocessors & Computer Architecture (EFB2073).
 
 
-| Volintine Ander  | Another guy | Uni |
-|:-:|:-:|:-:|
-| {{< figure src="images/uni.jpg" width="200" class="center" >}} | {{< figure src="images/uni.jpg" widhugoth="200" class="center" >}} | {{< figure src="images/uni.jpg" width="200" class="center" >}} |
-| He did some stuff | He did some stuff | Just being silly |
+| Volintine Ander  | Zechariah Hwong | Eddry Haqimy | Aziz Abdul Bagas | Kensley Kudang Kennedy | 
+|:-:|:-:|:-:|:-:|:-:|
+| 21001524 | 21001586 | 21001460 | 21000360 | 21001068 |
+| {{< figure src="images/ander.jpg" width="200" class="center" >}} | {{< figure src="images/zech.jpg" width="200" class="center" >}} | {{< figure src="images/edd1.jpg" width="200" class="center" >}} | {{< figure src="images/aziz2.jpg" width="200" class="center" >}} | {{< figure src="images/ken1.jpg" width="200" class="center" >}} |
+
 
 
 ## Other info
 {{< youtube "d438Q8m1RJs" >}}
 
-> Worship Uni. He cute.
+> Worship Uni. He cute. Hi
 {.note}
