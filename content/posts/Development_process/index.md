@@ -1,9 +1,14 @@
 +++
-title = 'Development process'
+title = 'Software development process'
 summary = "Further discussion, technical challenges, and how we had overcome them"
 draft = false
-weight = 3
+weight = 4
 +++
 
+## Discussion
 
-ESP SUCKS
+
+## Technical challenges faced
+
+
+## Overcoming the challenges
