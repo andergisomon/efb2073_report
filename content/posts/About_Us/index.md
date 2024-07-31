@@ -7,9 +7,9 @@ weight = 1
 
 ## Team members
 
-We are second year third semester Electrical and Electronics Engineering students in Universiti Teknologi PETRONAS.
+> We are second year third semester Electrical and Electronics Engineering students in Universiti Teknologi PETRONAS.
 Currently undergoing Microprocessors & Computer Architecture (EFB2073).
-
+{.note}
 
 | Volintine Ander  | Zechariah Hwong | Eddry Haqimy | Aziz Abdul Bagas | Kensley Kudang Kennedy | 
 |:-:|:-:|:-:|:-:|:-:|
@@ -18,8 +18,4 @@ Currently undergoing Microprocessors & Computer Architecture (EFB2073).
 
 
 
-## Other info
-{{< youtube "d438Q8m1RJs" >}}
 
-> Worship Uni. He cute. Hi
-{.note}
