@@ -11,7 +11,7 @@ Our project makes use of ESP-NOW, a wireless communication protocol developed by
 In many industrial, commercial, and residential applications, traditional wired communications are still widely used for controlling various systems and devices, mostly to turn ON/OFF certain devices. Our system replaces clunky wires in exchange for modular wireless switches.
 
 ## Problem Statement
-Wired systems quickly become inconvenient when many devices need to be controlled. This scalability issue can be solved using a wireless control system, which we implemented using ESP NOW.
+Wired systems quickly become inconvenient when many devices need to be controlled. This scalability issue can be solved using a wireless control system, which we implemented using ESP-NOW.
 
 
 ## Objectives
