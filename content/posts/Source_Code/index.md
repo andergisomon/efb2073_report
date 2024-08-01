@@ -5,7 +5,7 @@ draft = false
 weight = 10
 +++
 
-> Some C code for your viewing pleasure. 
+The source code for this web report is available [here](https://github.com/andergisomon/efb2073_report "Title").
 
 ``` c
 #include "freertos.h"

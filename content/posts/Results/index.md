@@ -19,7 +19,7 @@ weight = 5
 </center>
 {{< /rawhtml >}}
 
-> Our Multipurpose IoT Automation with RISC-V project can be implemented in endless scenarios, examples of application in the industry for this relay circuit would be::
+> Our Multipurpose IoT with RISC-V project can be implemented in endless scenarios, examples of application in the industry for this relay circuit would be::
 > - Public Transport - Sexual harassment alarm, vehicle access, etc. 
 > - Home Automation - Light control, security systems, etc.
 > - Industrial Application - Machine control, process monitoring, etc.
