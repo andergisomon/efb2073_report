@@ -1,5 +1,5 @@
 +++
-title = 'About the Team'
+title = 'About the team'
 summary = "More information on each team member"
 draft = false
 weight = 1

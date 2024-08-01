@@ -1,5 +1,5 @@
 +++
-title = 'Project Outcomes & Accomplishments'
+title = 'Project outcomes & Accomplishments'
 summary = "See our end product in action, conclusion, and future recommendations"
 draft = false
 weight = 5
@@ -13,7 +13,9 @@ weight = 5
 {{< youtube "eb_vZ3zJuNg" >}}
 
 ## Applications
-The Module serves as a very flexible attachment to any control systems that require switching. A receiver and transmitter are only required to establish the Intranet system. An example of application of the module would be in a relay circuit as the switch relay as shown below. The receiver would interact with the switch to enable the power of any high-powered system without being connected to the board and potentially frying it. 
+The Module serves as a very flexible attachment to any control systems that require switching. A receiver and transmitter are only required to establish the Intranet system.
+
+An example of application of the module would be in a relay circuit as the switch relay as shown below. The receiver would interact with the switch to enable the power of any high-powered system without being connected to the board and potentially frying it. 
 
 {{< rawhtml >}}
 <center>
@@ -30,8 +32,7 @@ Our Multipurpose IoT Automation with RISC-V project can be implemented in endles
 
 
 ## Conclusion
-Our module is a proof-of-concept implementation of cloudless IoT technology. This paves the road towards *Intra*net of Things as opposed to *Inter*net of Things. Our system operates independently of third-party vendors (such as AWS, Azure, Clouflare, etc.), ensuring complete vendor independence. The benefits of this approach make it an attractive option for organizations looking for secure IoT solutions, unlike the mainstream approach.
-
+Our module is a proof-of-concept implementation of cloudless IoT technology. This paves the road towards *Intra*net of Things as opposed to *Inter*net of Things. Our system operates independently of third-party vendors (such as AWS, Azure, Clouflare, etc.), ensuring complete vendor independence.
 
 > - The primary advantage of our approach is **full data sovereignty**, allowing users to maintain full control over information and access.
 > 

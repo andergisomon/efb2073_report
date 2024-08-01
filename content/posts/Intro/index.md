@@ -1,6 +1,6 @@
 +++
 title = 'Introduction'
-summary = "Project Background, Problem Statement, Objectives"
+summary = "Project background, problem statement, and objectives"
 draft = false
 weight = 2
 +++

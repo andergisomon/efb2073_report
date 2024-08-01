@@ -80,7 +80,7 @@ params:
   homeInfoParams:
     Title: "IoT Control Module with RISC-V"
     Subtitle: "using NO Arduino code"
-    Content: "Intranet of Things implemented using the ESP NOW protocol with two ESP32C3 boards. A multipurpose wireless control module, implemented in **pure ESP IDF**."
+    Content: "(Intra)net of Things implemented using the ESP NOW protocol with two ESP32C3 boards. A multipurpose wireless control module, implemented in **pure ESP IDF**."
 
   analytics:
     google:

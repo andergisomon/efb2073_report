@@ -1,6 +1,6 @@
 +++
-title = 'Hardware Development Process'
-summary = "Hardware selection, Harware design"
+title = 'Hardware development process'
+summary = "Hardware selection and design"
 draft = false
 weight = 3
 +++
@@ -16,7 +16,7 @@ Materials used in this project:
 |:-:|:-:|:-:|
 | {{< figure src="images/switch.jpg" width="400" class="center" >}} | {{< figure src="images/led_strip.png" width="400" class="center" >}} | {{< figure src="images/water_pump.jpg" width="400" class="center" >}} |
 
-> **Note:** LEDs and Buzzer are just for demonstration purposes, as we want to demonstrate how our module works, the LEDs and Buzzer may be replaced by any other industrial device or appliance.
+> **Note:** These peripherals are used in our system for illustration, and they may be replaced by other device/appliance.
 
 | Features | ESP32C | ESP 8266 | STM32 with Wi-Fi Module |
 |:-:|:-:|:-:|:-:|
@@ -40,3 +40,5 @@ The ESP-NOW protocol requires that two ESP32C3, one to act as a transmitter and 
 The transmitter is wired to accept input from 3 switches, each button when pressed would toggle the associated pins on the receiver sides.
 
 The receiver is wired to 3 LEDs and when data is received from the transmitter, it would toggle the associated pins either from (HIGH to LOW) or (LOW to HIGH). The 3 LEDS, are just to indicate switching.
+
+In the indoor farm application, one of the receiver output pins are wired to a buzzer. All output pins were then wired to the signal side of a relay board.
