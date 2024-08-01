@@ -75,8 +75,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "EFB2073 Microprocessor & Computer Architecture Project Report"
-    Content: "A web report detailing our IoT project"
+    Title: "Multipurpose IoT Automation with RISC-V"
+    Content: "Intranet of Things implemented using the ESP NOW protocol with two ESP32C3 boards. A multipurpose wireless control module."
 
   analytics:
     google:

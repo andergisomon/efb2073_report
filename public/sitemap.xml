@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/posts/intro/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/hardware/</loc>
+  </url><url>
     <loc>http://localhost:1313/posts/development_process/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/results/</loc>
