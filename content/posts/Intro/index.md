@@ -40,8 +40,9 @@ A brief description of the technologies we used throughout the project.
 > - IDF Frontend
 
 **For web report**
-> - Hugo
-> - GitHub Pages
+> - Hugo (website building)
+> - Git (version control)
+> - GitHub Pages (static site hosting)
 
 **Programming languages**
 > - C (everything else)

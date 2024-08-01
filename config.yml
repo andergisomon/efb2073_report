@@ -78,8 +78,9 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Multipurpose IoT Automation with RISC-V"
-    Content: "Intranet of Things implemented using the ESP NOW protocol with two ESP32C3 boards. A multipurpose wireless control module."
+    Title: "Multipurpose IoT Automation with RISC-V"
+    Subtitle: "using NO Arduino code"
+    Content: "Intranet of Things implemented using the ESP NOW protocol with two ESP32C3 boards. A multipurpose wireless control module, implemented in **pure ESP IDF**."
 
   analytics:
     google:
