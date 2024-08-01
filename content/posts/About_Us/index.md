@@ -27,4 +27,3 @@ Currently undergoing Microprocessors & Computer Architecture (EFB2073).
 > - Kensley Kudang Kennedy
 
 ## Other info
-{{< youtube "d438Q8m1RJs" >}}
