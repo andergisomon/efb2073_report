@@ -28,6 +28,3 @@ Currently undergoing Microprocessors & Computer Architecture (EFB2073).
 
 ## Other info
 {{< youtube "d438Q8m1RJs" >}}
-
-> Worship Uni. He cute. Hi
-{.note}
