@@ -7,9 +7,7 @@ weight = 1
 
 ## Team members
 
-We are second year third semester Electrical and Electronics Engineering students in Universiti Teknologi PETRONAS.
-Currently undergoing Microprocessors & Computer Architecture (EFB2073).
-
+At the time of taking this course, we are second year third semester Electrical and Electronics Engineering students in Universiti Teknologi PETRONAS.
 
 | Volintine Ander  | Zechariah Hwong | Eddry Haqimy |
 |:-:|:-:|:-:|
@@ -22,12 +20,12 @@ Currently undergoing Microprocessors & Computer Architecture (EFB2073).
 | {{< figure src="images/aziz2.jpg" width="200" class="center" >}} | {{< figure src="images/ken1.jpg" width="200" class="center" >}} |
 
 ## Task allocation
->Software Implementatiion:
-> - Volintine Ander: ESP-NOW research & data logger coding
-> - Zechariah Hwong: Transmitter coding
-> - Eddry Haqimy: Receiver coding
+>Software Implementation:
+> - **Volintine Ander** - ESP IDF rewrite and data logging
+> - **Zechariah Hwong** - Transmitter coding
+> - **Eddry Haqimy** - Receiver coding
 
->Web-based Report:
-> - Aziz Abdul Bagas
-> - Kensley Kudang Kennedy
+>Web Report
+> - **Aziz Abdul Bagas**
+> - **Kensley Kudang Kennedy**
 

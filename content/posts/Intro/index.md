@@ -42,6 +42,6 @@ A brief description of the technologies we used throughout the project.
 > - Git (version control)
 > - GitHub Pages (static site hosting)
 
-**Programming languages**
+**Programming/markup languages**
 > - C (everything else)
-> - JavaScript (website report)
+> - JavaScript, CSS, HTML (website report)
