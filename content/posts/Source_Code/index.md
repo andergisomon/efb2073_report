@@ -5,7 +5,7 @@ draft = false
 weight = 10
 +++
 
-> Some C code for your viewing pleasure. {.note}
+> Some C code for your viewing pleasure. 
 
 ``` c
 #include "freertos.h"
