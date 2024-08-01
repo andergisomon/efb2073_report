@@ -12,7 +12,6 @@ weight = 4
 
 ## Discussion
 
-
 ## Technical challenges faced
 ### 1. No Arduino code requirement
 {style="color: red"}
@@ -29,6 +28,6 @@ weight = 4
 We worked from afternoon to the early morning multiple times; reading through documentation and ESP IDF source code to debug our code. Since it seemed like an impossible requirement, we initially implemented our project using Arduino, and translated the code into pure ESP IDF once we figured out the base code.
 
 ## Web development
-Using the Hugo framework, we used JavaScript, HTML, and CSS to develop this web report. Additionally, we opted to use GitHub pages to host this report for free without ads or background trackers which are permanently enabled for those who use [Wix](https://support.wix.com/en/article/wix-editor-wix-ads-on-mobile-site "Title"), Google Sites, [Weebly](https://www.sellercommunity.com/t5/Weebly-Getting-Started/Weebly-Ads/td-p/476754 "Title"), or other free web building sites.
+Using the Hugo framework, we used JavaScript, HTML, and CSS to develop this web report. Additionally, we opted to use GitHub Pages to host this report for free without ads or background trackers which are permanently enabled for those who use [Wix](https://support.wix.com/en/article/wix-editor-wix-ads-on-mobile-site "Title"), Google Sites, [Weebly](https://www.sellercommunity.com/t5/Weebly-Getting-Started/Weebly-Ads/td-p/476754 "Title"), or other free web building sites. For code collaboration, we used Git, the industry standard for version control.
 
 The report reader can rest assured that no personal data is secretly used, as this website is a static site built by the team from the ground up. In fact, we used a software development philosophy called "build in public" (BIP), where anyone can independently [audit our website](https://github.com/andergisomon/efb2073_report "Title"). 

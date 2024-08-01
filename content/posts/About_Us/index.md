@@ -20,12 +20,9 @@ At the time of taking this course, we are second year third semester Electrical 
 | {{< figure src="images/aziz2.jpg" width="200" class="center" >}} | {{< figure src="images/ken1.jpg" width="200" class="center" >}} |
 
 ## Task allocation
->Software Implementation:
-> - **Volintine Ander** - ESP IDF rewrite and data logging
-> - **Zechariah Hwong** - Transmitter coding
-> - **Eddry Haqimy** - Receiver coding
-
->Web Report
-> - **Aziz Abdul Bagas**
-> - **Kensley Kudang Kennedy**
+> - **Volintine Ander** - Writing ESP IDF code, website setup, Git repository setup
+> - **Zechariah Hwong** - Transmitter coding, research
+> - **Eddry Haqimy** - Receiver coding, video editing
+> - **Aziz Abdul Bagas** - Web report writing, video direction
+> - **Kensley Kudang Kennedy** - Electrical wiring, web report writing
 

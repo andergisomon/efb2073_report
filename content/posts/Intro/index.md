@@ -20,15 +20,20 @@ Wired systems quickly become inconvenient when many devices need to be controlle
 > - To use local transmission for private IoT applications/environment
 
 ## Tech stack
-
-A brief description of the technologies we used throughout the project.
-> ### NO PART of the Arduino framework was used.
+### NO PART of the Arduino framework was used.
+{style="color: red"}
 
 ### Hardware
 > - Seeed XIAO ESP32C3 boards (x2)
 > - LEDs
-> - Switches
 > - Buzzer
+> - Switches
+> - 12V LED strip (x2)
+> - DC submersible water pump
+
+**Auxiliary hardware**
+> - Portable power bank
+
 
 ### Software frameworks
 **For embedded programming**

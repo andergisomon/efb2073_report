@@ -12,6 +12,10 @@ Materials used in this project:
 |:-:|:-:|:-:|
 | {{< figure src="images/esp.png" width="400" class="center" >}} | {{< figure src="images/led.png" width="400" class="center" >}} | {{< figure src="images/buzzer.png" width="400" class="center" >}} |
 
+|Switches | LED strips | Water pump |
+|:-:|:-:|:-:|
+| {{< figure src="images/switch.jpg" width="400" class="center" >}} | {{< figure src="images/led_strip.png" width="400" class="center" >}} | {{< figure src="images/water_pump.jpg" width="400" class="center" >}} |
+
 > **Note:** LEDs and Buzzer are just for demonstration purposes, as we want to demonstrate how our module works, the LEDs and Buzzer may be replaced by any other industrial device or appliance.
 
 | Features | ESP32C | ESP 8266 | STM32 with Wi-Fi Module |
