@@ -21,6 +21,8 @@ weight = 3
 | **Development Ecosystem and Community Support** | Extensive, strong community | Good, less advanced | Strong for STM32, complex configuration |
 | **Cost and Availability** | Cost-effective | Cheaper, fewer features | More expensive, complex integration |
 
+> For this project we have chosen to work with the ESP32C3. In summary, the ESP32C3 is better suited for wireless switch module due to its native support for the ESP-NOW protocol, improved power efficiency, better performance, and more robust development ecosystem compared to the ESP8266 and STM32 with a Wi-Fi module, and it is the cheapest, we are only students with no salary yet!!
+
 ## Hardware design
 
 |Transmitter| Receiver |
