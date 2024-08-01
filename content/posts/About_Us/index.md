@@ -26,5 +26,4 @@ Currently undergoing Microprocessors & Computer Architecture (EFB2073).
 > - Aziz Abdul Bagas
 > - Kensley Kudang Kennedy
 
-## Other info
-{{< youtube "d438Q8m1RJs" >}}
+

@@ -5,6 +5,11 @@ draft = false
 weight = 4
 +++
 
+## Flowchart
+| Receiver | Transmitter |
+|:-:|:-:|
+| {{< figure src="images/Receiver.svg" width="400" class="center" >}} | {{< figure src="images/Transmitter.svg" width="400" class="center" >}} |
+
 ## Discussion
 
 

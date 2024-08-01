@@ -11,7 +11,15 @@ weight = 5
 (Youtube video here)
 
 ## Applications
-> Our Multipurpose IoT Automation with RISC-V project can be implemented in endless scenarios, here are some examples:
+>The Module serves as a very flexible attachment to any control systems that require switching. A receiver and transmitter are only required to establish the Intranet system. An example of application of the module would be in a relay circuit as the switch relay as shown below. The receiver would interact with the switch to enable the power of any high-powered system without being connected to the board and potentially frying it. 
+
+{{< rawhtml >}}
+<center>
+<img src="images/relay.png" width="500">
+</center>
+{{< /rawhtml >}}
+
+> Our Multipurpose IoT Automation with RISC-V project can be implemented in endless scenarios, examples of application in the industry for this relay circuit would be::
 > - Public Transport - Sexual harassment alarm, vehicle access, etc. 
 > - Home Automation - Light control, security systems, etc.
 > - Industrial Application - Machine control, process monitoring, etc.
