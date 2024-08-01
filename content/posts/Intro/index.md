@@ -30,6 +30,7 @@ A brief description of the technologies we used throughout the project.
 > - LEDs
 > - Switches
 > - Light Dependent Resistor
+> - Buzzer
 
 ### Software frameworks
 **For embedded programming**

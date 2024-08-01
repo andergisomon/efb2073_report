@@ -19,6 +19,8 @@ weight = 5
 </center>
 {{< /rawhtml >}}
 
+
+
 > Our Multipurpose IoT Automation with RISC-V project can be implemented in endless scenarios, examples of application in the industry for this relay circuit would be::
 > - Public Transport - Sexual harassment alarm, vehicle access, etc. 
 > - Home Automation - Light control, security systems, etc.
@@ -26,6 +28,9 @@ weight = 5
 > - Health Care - Patient room control, emergency systems, etc.
 > - Agriculture - Irrigation control, greenhouse automation, etc.
 
+As an example of application of our module, we will demonstrate our module being used in an indoor farming system:
+
+(Youtube video here)
 
 ## Conclusion
 Our module is a proof-of-concept implementation of cloudless IoT technology. This paves the road towards *Intra*net of Things as opposed to *Inter*net of Things. Our system operates independently of third-party vendors (such as AWS, Azure, Clouflare, etc.), ensuring complete vendor independence. The benefits of this approach make it an attractive option for organizations looking for secure IoT solutions, unlike the mainstream approach.
