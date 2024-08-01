@@ -14,13 +14,15 @@ weight = 4
 
 
 ## Technical challenges faced
-**1. Development Environment**
-> The biggest difficulty that we encountered while developing the module was utilizing ESP-IDF. The process includes setting it up which requires manual installation of dependencies such as Git. The framework is also strict in choosing specific versions as its components, which may induce build errors and compatibility issues caused by version conflicts.
+**1. No Arduino code requirement**
+> Since Arduino itself is a framework that relies on ESP IDF, the technical requirement of a codebase that does not use the Arduino framework is a major obstacle. ESP IDF in comparison is a low-level framework with a level of documentation and support that is orders of magnitude lower than that of Arduino.
 
-**2. Framework Maturity**
-> Despite being powerful and full of features to be explored, the ESP-IDF is more niche compared to the popular and widely used Arduino framework. ESP-IDF also has a steeper learning curve as it is highly complex and has a lower level of APIs. Having a deep understanding of its hardware and software architecture became a huge obstacle to configure the module.
+**2. Lack of convenient APIs**
+> ESP IDF also has a steeper learning curve as it comprises of low-level APIs specific to Espressif SoCs. Many functionalities will need to be written from scratch, compared to Arduino that enjoys an ecosystem of diverse libraries that make it easy to develop for.
 
 **3. Limited Community Support**
-> The ESP-IDF community is smaller when compared to the Arduino community. There are less examples, tutorials, and forums available to allow studying and troubleshooting specific problems encountered.  The repository of examples and libraries for ESP-IDF was also too little to be used as a learning tool on utilizing the framework. This made searching for relevant code or reference implementations difficult.
+> Oftentimes we are the first to implement something in pure ESP IDF. The technical documentation provided by ESP IDF is sometimes scarce, outdated, or available only in Chinese. Example implementations are often irrelevant, uncommented and supplied with no README.
 
 ## Overcoming the challenges
+
+We worked from afternoon to the early morning multiple times; reading through documentation and ESP IDF source code to debug our code. Since it seemed like an impossible requirement, we initially implemented our project using Arduino, and translated the code into pure ESP IDF once we figured out the base code.

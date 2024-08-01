@@ -26,23 +26,21 @@ A brief description of the technologies we used throughout the project.
 
 ### Hardware
 > - Seeed XIAO ESP32C3 boards (x2)
-> - STM32 board (x1)
 > - LEDs
 > - Switches
-> - Light Dependent Resistor
 > - Buzzer
 
 ### Software frameworks
 **For embedded programming**
 > - ESP IoT Development Framework (ESP IDF)
-> - ARM mBED
 > - Powershell (for data logging)
 > - Visual Studio Code + ESP IDF extension
 > - IDF Frontend
 
 **For web report**
-> - Hugo
-> - GitHub Pages
+> - Hugo (website building)
+> - Git (version control)
+> - GitHub Pages (static site hosting)
 
 **Programming languages**
 > - C (everything else)

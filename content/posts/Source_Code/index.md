@@ -5,16 +5,8 @@ draft = false
 weight = 10
 +++
 
-> Some C code for your viewing pleasure. 
+The source code for this web report is available [here](https://github.com/andergisomon/efb2073_report "Title"). Source code for the ESP32C3 boards are available [here](https://github.com/andergisomon/esp-idf-learning/ "Title").
 
-``` c
-#include "freertos.h"
-#include <drivers/gpio.h>
-
-// I'm a comment. Everyone ignores me. I'm lonely. That makes me sad.
-
-extern void init_gpio();
-void app_main() {
-    init_gpio();
-}
-```
+{{< highlight C "linenos=table" >}}
+{{< fetchfile url="https://raw.githubusercontent.com/andergisomon/esp-idf-learning/main/transmitter.c" >}}
+{{< /highlight >}}

@@ -3,6 +3,9 @@
     <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
+    <header class="entry-header">
+        <h2>{{ .Subtitle | markdownify }}</h2>
+    </header>
     <div class="entry-content">
         {{ .Content | markdownify }}
     </div>
