@@ -21,27 +21,28 @@ Wired systems quickly become inconvenient when many devices need to be controlle
 
 ## Tech stack
 
-A brief description of the technologies we used throughout the project. NO PART of the Arduino framework was used.
+A brief description of the technologies we used throughout the project.
+> ### NO PART of the Arduino framework was used.
 
-### Hardware:
+### Hardware
 > - Seeed XIAO ESP32C3 boards (x2)
 > - STM32 board (x1)
 > - LEDs
 > - Switches
 > - Light Dependent Resistor
 
-### Software frameworks:
-**For embedded programming:**
+### Software frameworks
+**For embedded programming**
 > - ESP IoT Development Framework (ESP IDF)
 > - ARM mBED
-> - Powershell
+> - Powershell (for data logging)
 > - Visual Studio Code + ESP IDF extension
 > - IDF Frontend
 
-**For web report:**
+**For web report**
 > - Hugo
 > - GitHub Pages
 
-**Programming languages:**
-> - C
+**Programming languages**
+> - C (everything else)
 > - JavaScript (website report)
