@@ -32,7 +32,7 @@ Our product can be applied in endless scenarios, examples include:
 
 
 ## Conclusion
-Our module is a proof-of-concept implementation of cloudless IoT technology. This paves the road towards *Intra*net of Things as opposed to *Inter*net of Things. Our system operates *independently* of third-party vendors (such as AWS, Azure, Clouflare, etc.), ensuring complete vendor independence.
+Our module is a proof-of-concept implementation of cloudless IoT technology. This paves the road towards *Intra*net of Things as opposed to *Inter*net of Things. Our system operates *independently* of third-party vendors (such as AWS, Azure, Cloudflare, etc.), ensuring complete vendor independence.
 
 > - The primary advantage of our approach is **full data sovereignty**, allowing users to maintain full control over information and access.
 > 
