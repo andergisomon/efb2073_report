@@ -21,7 +21,7 @@ weight = 4
 ### 2. Lack of convenient APIs
 > ESP IDF also has a steeper learning curve as it comprises of low-level APIs specific to Espressif SoCs. Many functionalities do not have convenient high-level abstractions, compared to Arduino that enjoys an ecosystem of diverse libraries that are easy to use.
 
-### 3. Limited Community Support
+### 3. Limited community support
 > Oftentimes we were the first to implement something in **pure ESP IDF**. The technical documentation provided by ESP IDF is sometimes scarce, outdated, or available only in Chinese. Example implementations are often irrelevant, uncommented and supplied with no README.
 
 ## Overcoming the challenges

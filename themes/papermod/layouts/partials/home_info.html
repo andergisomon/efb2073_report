@@ -1,6 +1,11 @@
 {{- with site.Params.homeInfoParams }}
 <article class="first-entry home-info">
     <header class="entry-header">
+        <!-- <figure class="center"><img src="/posts/Hardware/images/esp.png"/ width="200"></figure> -->
+        <!-- <figure class="center"><img src="/posts/About_Us/images/group_pic1.jpg"/ width="900"></figure> -->
+       <p align="center"><iframe width="600" height="338" src="https://www.youtube.com/embed/eb_vZ3zJuNg?si=NKaEO4P6bCq7Sp42" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p> 
+    </header><br></br>
+    <header class="entry-header">
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     <header class="entry-header">
@@ -8,6 +13,9 @@
     </header>
     <div class="entry-content">
         {{ .Content | markdownify }}
+    </div>
+    <div class="entry-content">
+        <p align="center"><img src="/posts/Hardware/images/transmitter_nobg.png"/ height="400"></p>
     </div>
     <footer class="entry-footer">
         {{ partial "social_icons.html" (dict "align" site.Params.homeInfoParams.AlignSocialIconsTo) }}

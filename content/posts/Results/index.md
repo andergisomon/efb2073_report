@@ -9,10 +9,13 @@ weight = 5
 ### Brief explainer
 {{<youtube "OzDRF4Xw-1A" >}}
 
+## Applications
 ### Example application of our module: Indoor farm 
 {{< youtube "eb_vZ3zJuNg" >}}
 
-## Applications
+#
+#
+
 The module serves as a very flexible attachment to any control systems that require switching. A receiver and transmitter are only required to establish the Intranet system.
 
 An example of application of the module would be in a relay circuit as the switch relay as shown below. The receiver would interact with the switch to control a high-power system without a direct electrical connection to the controller board. 
@@ -22,6 +25,16 @@ An example of application of the module would be in a relay circuit as the switc
 <img src="images/relay.png" width="500">
 </center>
 {{< /rawhtml >}}
+
+### Data logging functionality
+{{< rawhtml >}}
+<center>
+<img src="images/logger.png" width="900">
+</center>
+{{< /rawhtml >}}
+
+#
+#
 
 Our product can be applied in endless scenarios, examples include:
 > - **Public transport** - Sexual harassment alarm on trains, toilet lock/unlocking, inter-carriage device communication etc. 

@@ -26,3 +26,6 @@ At the time of taking this course, we are second year third semester Electrical 
 > - **Aziz Abdul Bagas** - Web report writing, video direction
 > - **Kensley Kudang Kennedy** - Electrical wiring, web report writing
 
+![](images/group_pic2.jpg)
+
+![](images/group_pic1.jpg)
