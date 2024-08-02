@@ -32,7 +32,7 @@ For this project we have chosen to work with the ESP32C3. The ESP32C3 is better 
 
 |Transmitter| Receiver |
 |:-:|:-:|
-| {{< figure src="images/receiver.jpg" width="300" class="center" >}} | {{< figure src="images/transmitter.jpg" width="300" class="center" >}} |
+| {{< figure src="images/transmitter.jpg" width="300" class="center" >}} | {{< figure src="images/receiver.jpg" width="300" class="center" >}} |
 
 
 The ESP-NOW protocol requires two ESP32C3 boards, one to act as a transmitter and another as a receiver. Each board was connected to their out-of-the-box antennae to increase SNR.
